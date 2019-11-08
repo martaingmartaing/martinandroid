@@ -2,42 +2,34 @@
   "Personne": [
     {
       "id": 1,
-      "pseudo": "sniper",
-      "prenom": "Thomas",
-      "nom": "Drula",
-      "password": "974reunion",
-      "email": "tdrula@gmail.com"
+      "pseudo": "martaing",
+      "prenom": "martin",
+      "nom": "astruc",
+      "password": "jipiii",
+      "email": "martinastruc@gmail.com"
     },
     {
       "id": 2,
-      "pseudo": "Antoine",
-      "prenom": "Juliette",
-      "nom": "Paillette",
-      "password": "974reunion",
+      "pseudo": "tomaaa",
+      "prenom": "thomas",
+      "nom": "drula",
+      "password": "jppp",
       "email": "tdrula@gmail.com"
     },
     {
       "id": 3,
-      "pseudo": "sniper97401",
-      "prenom": "inazuma",
-      "nom": "Paillette",
-      "password": "974reunion",
-      "email": "tdrula@gmail.com"
-    },
-    {
-      "id": 4,
-      "pseudo": "Sundrake",
-      "prenom": "Thomas",
-      "nom": "Paillette",
-      "password": "974reunion",
-      "email": "tdrula@gmail.com"
+      "pseudo": "jpthehacker",
+      "prenom": "jp",
+      "nom": "gonoooooo",
+      "password": "010101",
+      "email": "jp@hacker.com"
     }
   ],
   "logement": [
     {
       "id": 1,
-      "prix": "154",
-      "titre": "23 rue charles fourrier"
+      "prix": "100",
+      "titre": "82 rue baudricourt"
     }
   ]
 }
